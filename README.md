@@ -4,8 +4,30 @@ próbne portfolio w celu nauki
 
 ### Hello World
 
-I am a fullstack software engineer from bangladesh- ? Working on multiple frontend and backend project using React and Nodejs
--  Learning design patterns in depth
+## O mnie
+
+Jestem certyfikowanym testerem kreatywnie patrzącym na świat. 
+Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem. 
+
+
+## Narzędzia
+
+
+## Umiejętności techniczne
+
+
+## Certyfikaty
+
+
+## Kursy
+
+
+## Webinary
+
+
+## Grupy testerskie
+
+
 
 ## Connect with me
 
