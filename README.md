@@ -1,13 +1,14 @@
 # *Portfolio_test-era*
-próbne portfolio w celu nauki
-
 
 ### Hello World
 
-## O mnie
-
 Jestem certyfikowanym testerem kreatywnie patrzącym na świat. 
+
 Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem. 
+
+## Kontakt ze mną
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
 
 
 ## Narzędzia
