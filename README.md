@@ -26,7 +26,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 ## Webinary
 
 
-## Grupy testerskie
+## Blogi, strony tematyczne
 
 
 ## Expertise
