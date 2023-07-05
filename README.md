@@ -15,7 +15,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 
 ## Narzędzia
 
-||* Metodologie zarządzania:
+* Metodologie zarządzania:
   * RUP
   * Scrum/Agile
   * Kanban
@@ -35,7 +35,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 * Bazy danych:
   * MySQL - podstawy
 * Systemy kontroli wersji:
-  * GIT||
+  * GIT
 
 
 ## Certyfikaty
