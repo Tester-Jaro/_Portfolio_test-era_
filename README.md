@@ -1,10 +1,10 @@
 # *Portfolio_test-era*
 
-|-### Hello World :wave:-|
+|- ### Hello World :wave: -|
 
-|-Jestem certyfikowanym testerem kreatywnie patrzącym na świat.-|
+|- Jestem certyfikowanym testerem kreatywnie patrzącym na świat. -|
 
-|-Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.-|
+|- Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem. -|
 
 ## Kontakt ze mną
 
