@@ -36,7 +36,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 * Bazy danych:
   * MySQL - podstawy
 * Systemy kontroli wersji:
-  * GIT
+  * Github
 
 
 ## Certyfikaty
