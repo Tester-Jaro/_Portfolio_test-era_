@@ -16,11 +16,13 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 ## Narzędzia
 
 * Metodologie zarządzania
+ 
  * RUP
  * Scrum/Agile
  * Kanban
  * Model Spiralny
 * Narzędzia do zarządzania testowaniem:
+ 
  * Jira
 * Narzędzia wspomagające testowanie:
  * Chrome Developer Tools
