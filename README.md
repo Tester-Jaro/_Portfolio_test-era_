@@ -26,9 +26,9 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
   * Chrome Developer Tools
   * Firefox Developer Tools
   * Postman
+  * SoapUI
   * Test Rail
   * Snipping Tool
-  * SoapUI
 * Języki programowania i frameworki:
   * Java - podstawy
   * JavaScript - podstawy
