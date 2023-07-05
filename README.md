@@ -29,7 +29,6 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
   * Test Rail
   * Snipping Tool
   * SoapUI
-  * ??   JMeter  ??
 * Języki programowania i frameworki:
   * Java - podstawy
   * JavaScript - podstawy
