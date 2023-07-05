@@ -25,10 +25,11 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 * Narzędzia wspomagające testowanie:
   * Chrome Developer Tools
   * Firefox Developer Tools
-  * ??   JMeter  ??
+  * Postman
   * Test Rail
   * Snipping Tool
-  * 
+  *
+  * ??   JMeter  ??
 * Języki programowania i frameworki:
   * Java - podstawy
   * JavaScript - podstawy
