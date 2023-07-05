@@ -40,7 +40,8 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 
 ## Certyfikaty
 
-[przykładowy link](http://przykład.pl/)
+* ISTQB - No. 39368 - 
+* [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) -
 
 ## Kursy
 
