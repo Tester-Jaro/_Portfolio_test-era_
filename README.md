@@ -41,7 +41,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 ## Certyfikaty
 
 * ISTQB - No. 39368 - 16.12.2016r.
-* [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) -28.02.2022r.
+* [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) - 28.02.2022r.
 * [Tester oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d66bb877f52e1cb2c066385140d21387c56d77a2a) - 	4.02.2022r.
 
 ## Kursy
