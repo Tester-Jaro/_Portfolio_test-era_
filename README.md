@@ -2,7 +2,7 @@
 
 ### Hello World :wave:
 
-|-
+
 Jestem certyfikowanym testerem kreatywnie patrzącym na świat.
 -|
 
