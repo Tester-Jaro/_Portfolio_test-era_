@@ -16,28 +16,26 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 ## Narzędzia
 
 * Metodologie zarządzania
- 
- * RUP
- * Scrum/Agile
- * Kanban
- * Model Spiralny
+  * RUP
+  * Scrum/Agile
+  * Kanban
+  * Model Spiralny
 * Narzędzia do zarządzania testowaniem:
- 
- * Jira
+  * Jira
 * Narzędzia wspomagające testowanie:
- * Chrome Developer Tools
- * Firefox Developer Tools
- * ??   JMeter  ??
- * Test Rail
- * Snipping Tool
- * 
+  * Chrome Developer Tools
+  * Firefox Developer Tools
+  * ??   JMeter  ??
+  * Test Rail
+  * Snipping Tool
+  * 
 * Języki programowania i frameworki:
- * Java - podstawy
- * JavaScript - podstawy
+  * Java - podstawy
+  * JavaScript - podstawy
 * Bazy danych:
- * MySQL - podstawy
+  * MySQL - podstawy
 * Systemy kontroli wersji
- * GIT
+  * GIT
 
 
 ## Certyfikaty
