@@ -40,7 +40,7 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 
 ## Certyfikaty
 
-
+[przykładowy link](http://przykład.pl/)
 
 ## Kursy
 
