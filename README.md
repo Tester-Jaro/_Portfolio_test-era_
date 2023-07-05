@@ -15,16 +15,31 @@ Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego z
 
 ## Narzędzia
 
-* Języki programowania i frameworki, np. Javascript i Angular.
-* Bazy danych, np. MySQL, MS SQL.
-* Systemy operacyjne, np. Windows, Linux.
-* Systemy kontroli wersji, np. GIT, SVN.
-* Poznane metodologie zarządzania, jak SCRUM czy Kanban.
-* Narzędzia do zarządzania testowaniem, np. Jira, Redmine, Bugzilla.
-* Narzędzia wspomagające testowanie, np. konsola Chrome, JMeter
+* Metodologie zarządzania
+ * RUP
+ * Scrum/Agile
+ * Kanban
+ * Model Spiralny
+* Narzędzia do zarządzania testowaniem:
+ * Jira
+* Narzędzia wspomagające testowanie:
+ * Chrome Developer Tools
+ * Firefox Developer Tools
+ * ??   JMeter  ??
+ * Test Rail
+ * Snipping Tool
+ * 
+* Języki programowania i frameworki:
+ * Java - podstawy
+ * JavaScript - podstawy
+* Bazy danych:
+ * MySQL - podstawy
+* Systemy kontroli wersji
+ * GIT
 
 
 ## Certyfikaty
+
 
 
 ## Kursy
