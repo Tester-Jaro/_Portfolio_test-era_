@@ -59,11 +59,13 @@
 * [GoIT - Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar)
 * [GoIT - podstawy HTML i CSS](https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535%7C146264932926%7C652920559856%7C%7Cgo-it&gad=1&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJv0jKHyaHdNsnWC4mJMAayfj7msPLBqbdXqZwSKEmfqtehHYWp6TN4aAhE2EALw_wcB&ga=1888222807.1647978669&first_name=Jaros%C5%82aw&phone=%2B48660393313&email=jamrogj%40o2.pl)
 
-## Webinary
-
-
-
 ## Blogi, strony tematyczne
 
-
+* [SJSI](https://sjsi.org/)
+* [testerzy.pl/](https://testerzy.pl/)
+* [sekurak.pl/](https://sekurak.pl/)
+* [niebezpiecznik.pl/](https://niebezpiecznik.pl/)
+* [miroslawzelent.pl/](https://miroslawzelent.pl/)
+* [Sii](https://sii.pl/blog/)
+* [#TestowaŚroda](https://akademiaqa.pl/testowa-sroda/) - mailing z ciekawymi linkami ze świata testów
 
