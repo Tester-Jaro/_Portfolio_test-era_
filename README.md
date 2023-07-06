@@ -4,6 +4,7 @@
 ### *Hello World* :wave:
 
 <div align="center">
+ 
   *Jestem certyfikowanym testerem kreatywnie patrzącym na świat.*
 
   *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.*
