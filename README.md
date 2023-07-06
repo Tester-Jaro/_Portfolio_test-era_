@@ -21,13 +21,11 @@
 
 <br>
 
-## Metody, technologie w tym narzędzia :triangular_ruler: :microscope: (*wybrane*)
+## Metody, technologie i narzędzia :triangular_ruler: :microscope: (*wybrane*)
 
 * Metodologie zarządzania:
-  * RUP
   * Scrum/Agile
   * Kanban
-  * Model Spiralny
 * Narzędzia do zarządzania testowaniem:
   * Jira
 * Narzędzia wspomagające testowanie:
