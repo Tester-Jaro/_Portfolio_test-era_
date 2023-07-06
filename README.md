@@ -13,7 +13,8 @@
 <br>
 
 > **Note** <br>
-> Konta w innych mediach społecznościowych pod tym imieniem i nazwiskiem nie należą do mnie. :alien:
+
+> Konta w innych mediach społecznościowych nie należą do mnie. :alien:
 
 <br>
 
