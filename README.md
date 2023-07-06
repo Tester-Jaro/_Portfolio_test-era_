@@ -13,6 +13,10 @@
 <br>
 
 
+<p align="center">
+  <img width="100%" src="https://example.com/alert.svg">
+</p>
+
 [!TIP]
 Konta w innych mediach społecznościowych pod tym imieniem i nazwiskiem nie należą do mnie. :alien:
 
