@@ -6,7 +6,7 @@
 
 <div align="center">
  
-  ## *Jestem certyfikowanym testerem kreatywnie patrzącym na świat.* <br> <br> *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.* :mag_right:
+  ### *Jestem certyfikowanym testerem kreatywnie patrzącym na świat.* <br> <br> *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.* :mag_right:
 </div>
 
 
