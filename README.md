@@ -13,7 +13,6 @@
 <br>
 
 > **Note** <br>
-
 > Konta w innych mediach społecznościowych nie należą do mnie. :alien:
 
 <br>
