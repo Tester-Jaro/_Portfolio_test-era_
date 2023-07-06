@@ -14,7 +14,7 @@
 </div>
 
 
-
+<br>
 
 ## Kontakt ze mną
 
