@@ -46,7 +46,7 @@
   * Github
 
 
-## Certyfikaty :mortar_board:
+## Certyfikaty :trophy:
 
 * ISTQB - No. 39368 - 16.12.2016r.
 * [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) - 28.02.2022r.
