@@ -15,7 +15,7 @@
 
 
 
-> Note
+> Note <br>
 Konta w innych mediach społecznościowych pod tym imieniem i nazwiskiem nie należą do mnie. :alien:
 
 
