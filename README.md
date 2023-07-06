@@ -8,7 +8,7 @@
 
 <br>
 
-# *Portfolio_test-era* 
+# *Portfolio_test-era* :mag:
 
 ## Kontakt ze mną :postbox:
 
