@@ -1,12 +1,16 @@
 # *Portfolio_test-era*
 
-<div align='justify'>
+
 ### *Hello World* :wave:
 
-*Jestem certyfikowanym testerem kreatywnie patrzącym na świat.*
+<div align="center">
+  *Jestem certyfikowanym testerem kreatywnie patrzącym na świat.*
 
-*Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.*
+  *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.*
 </div>
+
+
+
 
 ## Kontakt ze mną
 
