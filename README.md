@@ -13,9 +13,8 @@
 <br>
 
 
-> [!TIP]
-
-> Konta w innych mediach społecznościowych pod tym imieniem i nazwiskiem nie należą do mnie. :alien:
+[!TIP]
+Konta w innych mediach społecznościowych pod tym imieniem i nazwiskiem nie należą do mnie. :alien:
 
 
 ## Narzędzia
