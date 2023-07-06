@@ -8,7 +8,7 @@
  
   *Jestem certyfikowanym testerem kreatywnie patrzącym na świat.*
 
-  *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.*
+  *Na co dzień cechuje mnie ciekawość i ważna jest dla mnie jakość, dlatego zainteresowałem się testowaniem.* :mag_right:
 </div>
 
 
@@ -23,7 +23,7 @@
 <br>
 
 > **Note** <br>
-> :bulb: Konta w innych mediach społecznościowych nie należą do mnie. :alien:
+> Konta w innych mediach społecznościowych nie należą do mnie. ## :alien:
 
 <br>
 
