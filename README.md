@@ -8,7 +8,11 @@
 
 <br>
 
-# *Portfolio_test-era* :mag: 
+<div align="center">
+  
+  # *Portfolio_test-era* :mag: 
+  
+</div>
 
 ## Kontakt ze mną :postbox:
 
