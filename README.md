@@ -14,7 +14,7 @@
 
 <br>
 
-# :shipit: *Portfolio_test-era*
+# *Portfolio_test-era* :shipit:
 
 ## Kontakt ze mną
 
