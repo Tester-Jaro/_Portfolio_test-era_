@@ -21,7 +21,7 @@
 
 <br>
 
-## Narzędzia :triangular_ruler: :microscope:
+## Narzędzia :triangular_ruler: :microscope: (*wybrane*)
 
 * Metodologie zarządzania:
   * RUP
