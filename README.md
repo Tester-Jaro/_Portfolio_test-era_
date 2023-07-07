@@ -42,6 +42,8 @@
   * Test Rail
   * Snipping Tool
 * Języki programowania i frameworki:
+  * HTML
+  * CSS
   * Java - podstawy
   * JavaScript - podstawy
 * Bazy danych:
