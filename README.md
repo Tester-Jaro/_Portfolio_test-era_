@@ -41,7 +41,7 @@
   * SoapUI
   * Test Rail
   * Snipping Tool
-* Języki programowania i frameworki:
+* Języki i frameworki:
   * HTML
   * CSS
   * Java - podstawy
