@@ -40,6 +40,7 @@
   * Postman
   * SoapUI
   * Test Rail
+  * Screenpresso
   * Snipping Tool
 * Języki i frameworki:
   * HTML
@@ -49,7 +50,7 @@
 * Bazy danych:
   * MySQL - podstawy
 * Systemy kontroli wersji:
-  * Github
+  * Git
 
 
 ## Certyfikaty :trophy:
