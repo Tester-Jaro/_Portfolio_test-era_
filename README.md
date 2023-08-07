@@ -35,8 +35,7 @@
 * Narzędzia do zarządzania testowaniem:
   * Jira
 * Narzędzia wspomagające testowanie:
-  * Chrome Developer Tools
-  * Firefox Developer Tools
+  * Developer Tools
   * Postman
   * SoapUI
   * Test Rail
@@ -44,11 +43,11 @@
   * Snipping Tool
 * Języki i frameworki:
   * HTML
-  * CSS
+  * ~~CSS~~
   * Java - podstawy
-  * JavaScript - podstawy
+  * ~~JavaScript - podstawy~~
 * Bazy danych:
-  * MySQL - podstawy
+  * SQL - podstawy
 * Systemy kontroli wersji:
   * Git
 
