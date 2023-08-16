@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div align="center">  :no_entry: Moje konto z nieznanych mi przyczyn zostało zablokowane. 
   
   # *Portfolio_test-era* :mag: 
   
