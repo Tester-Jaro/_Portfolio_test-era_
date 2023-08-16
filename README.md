@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">  :no_entry: Moje konto z nieznanych mi przyczyn zostało zablokowane. 
+<div align="center">  
   
   # *Portfolio_test-era* :mag: 
   
@@ -18,7 +18,7 @@
 
 ## Kontakt ze mną :postbox:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jarosław-jamróg-362210282) <br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jarosław-jamróg-362210282)  :no_entry: Moje konto z nieznanych mi przyczyn zostało zablokowane. <br>
 
 <br>
 
