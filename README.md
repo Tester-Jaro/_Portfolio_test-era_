@@ -32,20 +32,21 @@
 * Metodologie zarządzania:
   * Scrum/Agile
   * Kanban
-* Narzędzia do zarządzania testowaniem:
+* Narzędzia do zarządzania projektem:
   * Jira
+  * Confluance
+  * Trello
+  * Clickup
 * Narzędzia wspomagające testowanie:
   * Developer Tools
-  * Postman
-  * SoapUI
+  * Postman - podstawy
   * Test Rail
   * Screenpresso
   * Snipping Tool
 * Języki i frameworki:
   * HTML
-  * ~~CSS~~
   * Java - podstawy
-  * ~~JavaScript - podstawy~~
+  * Python - rozpoczęcie nauki 20.03.24r.
 * Bazy danych:
   * SQL - podstawy
 * Systemy kontroli wersji:
@@ -54,13 +55,16 @@
 
 ## Certyfikaty :trophy:
 
+* [ChatGPT w testowaniu oprogramowania] - 02.2024r.
 * [Tester oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d66bb877f52e1cb2c066385140d21387c56d77a2a) - 	04.04.2022r.
 * [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) - 28.02.2022r.
 * ISTQB - No. 39368 - 16.12.2016r.
 
 ## Kursy :mortar_board:
 
-* [Jak znaleźć swoją pierwszą podatność?](https://szkolasecurity.pl/pierwsza/) - #inprogress: kurs z materiałami video + praca własna.
+* [Python 3. Kurs video. Praktyczne wprowadzenie do programowania - Adam Bobowski] - #inprogress
+* [MINI-KURS: ANGIELSKI DLA TESTERA](https://app.easycart.pl/checkout/75812685/mini-kurs-angielski-dla-testera?) - #inprogress
+* [ChatGPT w testowaniu oprogramowania](https://testowanie-oprogramowania.pl/chatgpt-w-testowaniu-oprogramowania/)
 * [GoIT - maraton Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar)
 * [SDAcademy - Tester oprogramowania](https://sdacademy.pl/kursy/software-tester/)
 * [GoIT - maraton podstawy HTML i CSS](https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535%7C146264932926%7C652920559856%7C%7Cgo-it&gad=1&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJv0jKHyaHdNsnWC4mJMAayfj7msPLBqbdXqZwSKEmfqtehHYWp6TN4aAhE2EALw_wcB&ga=1888222807.1647978669&first_name=Jaros%C5%82aw&phone=%2B48660393313&email=jamrogj%40o2.pl)
@@ -74,4 +78,5 @@
 * [Miroslawzelent.pl/](https://miroslawzelent.pl/)
 * [Sii/blog](https://sii.pl/blog/)
 * [#TestowaŚroda](https://akademiaqa.pl/testowa-sroda/) - mailing z ciekawymi linkami ze świata testów
+* [Fabrykatestow.pl](https://fabrykatestow.pl/ciekawostki/) - Newsletter
 
