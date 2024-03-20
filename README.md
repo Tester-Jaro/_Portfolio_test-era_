@@ -58,7 +58,7 @@
 
 ## Certyfikaty :trophy:
 
-* [ChatGPT w testowaniu oprogramowania] - 02.2024r.
+* [ChatGPT w testowaniu oprogramowania](https://www.udemy.com/share/109Mow3@XI5npiEsBeorNwAXmHfKWbDHCCIBjJYZiyfeYS0x7ANa9TBdC2kgwIYsHU-H4SxQEA==/) - 02.2024r.
 * [Tester oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d66bb877f52e1cb2c066385140d21387c56d77a2a) - 	04.04.2022r.
 * [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d8f322251c43873c8992acf45c4ec8faabcc5710d) - 28.02.2022r.
 * ISTQB - No. 39368 - 16.12.2016r.
