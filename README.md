@@ -18,7 +18,7 @@
 
 ## Kontakt ze mną :postbox:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jarosław-jamróg-362210282)   <br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/jaroslawjamrog)   <br>
 
 <br>
 
@@ -34,19 +34,19 @@
   * Kanban
 * Narzędzia do zarządzania projektem:
   * Jira
-  * Confluance
+  * Confluence
+  * Test Rail
   * Trello
   * Clickup
 * Narzędzia wspomagające testowanie:
   * Developer Tools
   * Postman - podstawy
-  * Test Rail
   * Screenpresso
   * Snipping Tool
 * Języki i frameworki:
+  * Python - rozpoczęcie nauki 20.03.24r.
   * HTML
   * Java - podstawy
-  * Python - rozpoczęcie nauki 20.03.24r.
 * Bazy danych:
   * SQL - podstawy
 * Systemy operacyjne
