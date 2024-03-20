@@ -49,6 +49,9 @@
   * Python - rozpoczęcie nauki 20.03.24r.
 * Bazy danych:
   * SQL - podstawy
+* Systemy operacyjne
+  * Windows
+  * Android/iOS - mobilne
 * Systemy kontroli wersji:
   * Git
 
