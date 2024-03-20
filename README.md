@@ -41,9 +41,11 @@
 * Narzędzia wspomagające testowanie:
   * Developer Tools
   * Postman - podstawy
+  * Plugins do Chrom
   * Screenpresso
   * Snipping Tool
-* Języki i frameworki:
+  * ChatGPT
+* Języki:
   * Python - rozpoczęcie nauki 20.03.24r.
   * HTML
   * Java - podstawy
@@ -52,7 +54,7 @@
 * Systemy operacyjne
   * Windows
   * Android/iOS - mobilne
-* Systemy kontroli wersji:
+* System kontroli wersji:
   * Git
 
 
