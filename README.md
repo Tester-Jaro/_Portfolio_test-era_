@@ -68,9 +68,9 @@
 
 * MINI-KURS: ANGIELSKI DLA TESTERA - Wiki Sitko - link do kursu wygasł
 * [ChatGPT w testowaniu oprogramowania](https://testowanie-oprogramowania.pl/chatgpt-w-testowaniu-oprogramowania/)
-* [GoIT - maraton Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar)
+* GoIT - maraton Quality Assurance - link do kursu wygasł
 * [SDAcademy - Tester oprogramowania](https://sdacademy.pl/kursy/software-tester/)
-* [GoIT - maraton podstawy HTML i CSS](https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535%7C146264932926%7C652920559856%7C%7Cgo-it&gad=1&gclid=Cj0KCQjw7uSkBhDGARIsAMCZNJv0jKHyaHdNsnWC4mJMAayfj7msPLBqbdXqZwSKEmfqtehHYWp6TN4aAhE2EALw_wcB&ga=1888222807.1647978669&first_name=Jaros%C5%82aw&phone=%2B48660393313&email=jamrogj%40o2.pl)
+* GoIT - maraton podstawy HTML i CSS - link do kursu wygasł
 
 ## Blogi, strony tematyczne :books: (*wybrane*)
 
