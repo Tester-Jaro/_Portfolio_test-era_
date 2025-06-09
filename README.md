@@ -44,11 +44,10 @@
   * Plugins do Chrom
   * Screenpresso
   * Snipping Tool
-  * ChatGPT
+  * AI
 * Języki:
-  * Python - rozpoczęcie nauki 20.03.24r.
+  * Python - kurs w aplikacji Mimo - rozpoczęcie 29.04.2025
   * HTML
-  * Java - podstawy
 * Bazy danych:
   * SQL - podstawy
 * Systemy operacyjne
@@ -68,7 +67,7 @@
 ## Kursy :mortar_board:
 
 * [Python 3. Kurs video. Praktyczne wprowadzenie do programowania - Adam Bobowski] - #inprogress
-* [MINI-KURS: ANGIELSKI DLA TESTERA](https://app.easycart.pl/checkout/75812685/mini-kurs-angielski-dla-testera?) - #inprogress
+* [MINI-KURS: ANGIELSKI DLA TESTERA](https://app.easycart.pl/checkout/75812685/mini-kurs-angielski-dla-testera?) 
 * [ChatGPT w testowaniu oprogramowania](https://testowanie-oprogramowania.pl/chatgpt-w-testowaniu-oprogramowania/)
 * [GoIT - maraton Quality Assurance](https://qa.m.goit.global/pl/?utm_source=ref&utm_medium=ref&utm_campaign=mar)
 * [SDAcademy - Tester oprogramowania](https://sdacademy.pl/kursy/software-tester/)
